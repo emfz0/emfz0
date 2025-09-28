@@ -3,7 +3,7 @@
 
 Working
 
-- 🔭 Town Roleplay (www.townroleplay.com.tr)
+- 🔭 Cool Scripting (https://discord.gg/TnjVacFFhT)
 
 Skills and Experience
 
