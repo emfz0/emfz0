@@ -7,8 +7,8 @@ Working
 
 Skills and Experience
 
-⚡ LUA
-⚡ SQL
+- ⚡ LUA
+- ⚡ SQL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
