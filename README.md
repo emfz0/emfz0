@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Batu Akay</h1>
 <h3 align="center">I write Full Stack codes on MTA:SA LUA Platform, I live in Ankara, Türkiye.</h3>
 
-- 🔭 I’m currently working on **Town Roleplay**
+Working
 
-- 👯 I’m looking to collaborate on **Syrex Roleplay**
+- 🔭 Town Roleplay (www.townroleplay.com.tr)
 
-- 📫 How to reach me **roleplayserce@gmail.com**
+Skills and Experience
+
+⚡ LUA
+⚡ SQL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
