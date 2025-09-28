@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batu Akay</h1>
-<h3 align="center">I write Full Stack codes on MTA:SA LUA Platform, I live in Ankara, Türkiye.</h3>
+<h3 align="center">I write Full Stack codes on MTA:SA Platform, I live in Ankara, Türkiye.</h3>
 
 Working
 
