@@ -3,6 +3,7 @@
 
 Working
 
+- 🔭 Vex Roleplay (https://discord.gg/vexroleplay)
 - 🔭 Cool Scripting (https://discord.gg/TnjVacFFhT)
 
 Skills and Experience
